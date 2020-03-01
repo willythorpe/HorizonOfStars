@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ConHorizon-Web.config Connection String" description="ConHorizon A Cadeia de Conexão usada em web.config pelo aplicativo para acessar o banco de dados." defaultValue="server=50.116.87.230; Port=3306; user id=osmoc913_horizon; password=H0ri0n0fSt@rsP@ssw0rd; database=osmoc913_horizonofstars" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\GitHub\\API-HorizonOfStars\\API-HorizonOfStars\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConHorizon']/@connectionString" />
+  </parameter>
+</parameters>
