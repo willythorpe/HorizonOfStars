@@ -1,9 +1,9 @@
-# Solution HorizonOfStars
+# Solution Horizon Of Stars
 Project SOA Horizon Of Stars
 
-The solution was created using the technique of abstraction of a layer in Azure Server Azure Server with architecture SOA with specialized microservices and their respective endpoints providing interoperability for client devices.
+The solution was created using technique of abstraction of a layer in Azure Server with SOA architecture and specialized microservices and their respective endpoints providing interoperability for client devices.
 
-For support there is also a video with instructions for use and the installer of the mobile application (android) and source code as well as Swagger documentation:
+For support there is also a video with instructions for use and the installer of the mobile application (android), source code as well as Swagger documentation:
 
 # Presentation
 Pdf: https://tinyurl.com/uzr4cv4
